@@ -49,3 +49,40 @@
     margin-left: 1em;
     padding: 1em;
 }
+
+.contato{
+    background-color: #000000 !important;
+    color: white !important;
+    text-align: center !important;
+    padding: 5% !important;
+}
+
+.rodape{
+    background-color: #000000 !important;
+    padding: 1em !important;
+    color: white !important;
+    text-align: center !important;
+}
+
+.sec-contatos{
+    margin-left: 5% !important;
+    padding: 5% !important;
+}
+
+.formulario{
+    background-color: blue;
+    margin-left: 1% !important;
+}
+
+.button{
+    margin-top: 1em !important;
+    background-color: blueviolet;
+    color: white;
+
+}
+
+.redes{
+    background-color: #d63d00 !important;
+    margin-left: 1% !important;
+    flex: 1 !important;
+}
